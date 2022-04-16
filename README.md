@@ -1,16 +1,21 @@
-### Hi there 👋
+ Olá, me chamo Isabelli! Estudo Informática para negócios na FATEC, sou apaixonada por tecnologia e atualmente tenho me dedicado a me tornar uma dev fullstack.  
+ #
 
-<!--
-**p-isabelli/p-isabelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Tecnologias que tenho estudado atualmente  💻</h3>
 
-Here are some ideas to get you started:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>React</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-isabelli&show_icons=true&theme=radical)
+
+#
+
+
