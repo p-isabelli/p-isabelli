@@ -1,4 +1,4 @@
- Olá! Me chamo Isabelli e sou estudante de Informática para Negócios na FATEC, sou apaixonada por tecnologia e atualmente tenho me dedicado a me tornar uma dev fullstack.  
+ Olá! Me chamo Isabelli e sou estudante de Informática para Negócios na FATEC. Sou apaixonada por tecnologia e atualmente tenho me dedicado a me tornar uma dev fullstack.  
  #
 
 <h3>Tecnologias que tenho estudado atualmente  💻</h3>
