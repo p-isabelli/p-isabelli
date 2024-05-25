@@ -4,7 +4,8 @@
 <h3>Tecnologias que tenho estudado atualmente  💻</h3>
 
 <ul>
- <li>Java</li>
+  <li>C#</li>
+  <li>Java</li>
   <li>MySQL</li>
   <li>Javascript</li>
   <li>React</li>
